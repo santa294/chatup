@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatUp</string>
+    <string name="welcome_back">С возвращением</string>
+    <string name="Login_to_Continue">Залогинься</string>
+    <string name="Email">Почта</string>
+    <string name="Password">Пароль</string>
+    <string name="SignIn">Войти</string>
+    <string name="SignUp">Зарегистрироваться</string>
+    <string name="Photo">Фото</string>
+    <string name="Name">Имя</string>
+    <string name="Confirm">Повтори пароль</string>
+    <string name="Select_User">Выбери пользователя</string>
+    <string name="online">В сети</string>
+</resources>
